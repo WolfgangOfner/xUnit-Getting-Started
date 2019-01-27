@@ -6,7 +6,7 @@ namespace CompanyManagement.Test.Testdata
 {
     public class ExternalEmployeeTestData
     {
-        public static IEnumerable<object[]> TestDataFromFIle
+        public static IEnumerable<object[]> TestDataFromFile
         {
             get
             {
